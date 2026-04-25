@@ -1,5 +1,7 @@
 # English | [中文](README_cn.md)
-# tron1-gazebo-ros2
+Product detail: [WLKATA BRAVE](https://www.wlkata.com/products/brave-edu-kit-biped-robot-three-multi-modal-point-foot-wheeled-sole-modal-rgbd-camera-sdk-openapi-sim2real-ai-robotics-humanoid-research-platform)
+
+# brave-gazebo-ros2
 
 ## 1. Set up the Development Environment 
 
